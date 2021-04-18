@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/swarnajit81/swarnajit81/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Swarnajit.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
