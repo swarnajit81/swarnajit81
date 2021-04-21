@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/swarnajit-bhowmick-66a7b5183/"><img alt="LinkedIn" src="https://www.linkedin.com/in/swarnajit-bhowmick-66a7b5183/"></a>
+<a href="https://www.linkedin.com/in/swarnajit-bhowmick-66a7b5183/"><img alt="LinkedIn" src="https://instagram.fccu3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/147316067_879773389480868_362601589017818087_n.jpg?tp=1&_nc_ht=instagram.fccu3-1.fna.fbcdn.net&_nc_ohc=sVUsSefL3PwAX_AVUfy&edm=ABfd0MgBAAAA&ccb=7-4&oh=8753c879953e8eb16ae07f8a90fd9d32&oe=60A5F81D&_nc_sid=7bff83"></a>
 <a href="https://www.instagram.com/__swarnajit__/"><img alt="Instagram" src="https://www.instagram.com/__swarnajit__/"></a>
 <a href="swarnajit.bhowmick.81@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-swarnajit.bhowmick.81@gmail.com&-blue?style=flat-square&logo=gmail"></a>
 </p>
